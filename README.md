@@ -5,7 +5,7 @@
  - HTM5 , Bootstaps , Javascript for the FrontEnd
 
 
-![alt tag](https://raw.githubusercontent.com/MischaMoon/WeatherApp/master/WeatherApp/Weather.png)
+![alt tag](https://raw.githubusercontent.com/MischaMoon/WeatherApp/master/Weather.png)
 
 
 
