@@ -1,0 +1,42 @@
+[09-Dec-2018 07:08:17 America/Chicago] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/geocode/json?address=&amp;key=AIzaSyDVQDvXhCYAfhU16Ux5NHyQ7z7FfSTFJ3c): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 13
+[09-Dec-2018 07:08:18 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 39
+[09-Dec-2018 07:08:18 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,1518307200): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 40
+[09-Dec-2018 07:08:40 America/Chicago] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/geocode/json?address=&amp;key=AIzaSyDVQDvXhCYAfhU16Ux5NHyQ7z7FfSTFJ3c): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 13
+[09-Dec-2018 07:08:40 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 39
+[09-Dec-2018 07:08:41 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,1518307200): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 40
+[09-Dec-2018 07:13:30 America/Chicago] PHP Fatal error:  Call to undefined function file_get_fcontents() in /home3/noorelamal/public_html/src/logic/weather.php on line 13
+[09-Dec-2018 07:14:08 America/Chicago] PHP Fatal error:  Call to undefined function file_get_fcontent() in /home3/noorelamal/public_html/src/logic/weather.php on line 13
+[09-Dec-2018 07:14:27 America/Chicago] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/geocode/json?address=&amp;key=AIzaSyDVQDvXhCYAfhU16Ux5NHyQ7z7FfSTFJ3c): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 13
+[09-Dec-2018 07:14:28 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 39
+[09-Dec-2018 07:14:28 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,1518307200): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 40
+[09-Dec-2018 07:14:31 America/Chicago] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/geocode/json?address=&amp;key=AIzaSyDVQDvXhCYAfhU16Ux5NHyQ7z7FfSTFJ3c): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 13
+[09-Dec-2018 07:14:32 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 39
+[09-Dec-2018 07:14:32 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,1518307200): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 40
+[09-Dec-2018 07:14:34 America/Chicago] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/geocode/json?address=&amp;key=AIzaSyDVQDvXhCYAfhU16Ux5NHyQ7z7FfSTFJ3c): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 13
+[09-Dec-2018 07:14:34 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 39
+[09-Dec-2018 07:14:35 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,1518307200): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 40
+[09-Dec-2018 07:16:58 America/Chicago] PHP Warning:  file_get_contents(https://maps.googleapis.com/maps/api/geocode/json?address=&amp;key=AIzaSyDVQDvXhCYAfhU16Ux5NHyQ7z7FfSTFJ3c): failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 13
+[09-Dec-2018 07:16:58 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 43
+[09-Dec-2018 07:16:58 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,1518307200): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 44
+[09-Dec-2018 07:19:05 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 40
+[09-Dec-2018 07:19:05 America/Chicago] PHP Warning:  file_get_contents(https://api.darksky.net/forecast/a278534634e93849cdd63cd21d5f984b/,1518307200): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home3/noorelamal/public_html/src/logic/weather.php on line 41
